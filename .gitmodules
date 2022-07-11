@@ -1,0 +1,6 @@
+[submodule "Analysis/CBBMatlab"]
+        path = Analysis/CBBMatlab
+        url = https://github.com/cboulay/CBBMatlab.git
+[submodule "Common/custom_neuropype"]
+	path = custom_neuropype
+	url = https://github.com/SachsLab/custom_neuropype.git

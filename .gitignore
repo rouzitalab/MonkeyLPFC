@@ -1,0 +1,31 @@
+.idea
+.DS_Store
+neuroGAM-master/all
+neuroGAM-master/data
+
+gpfa_v0203/data
+gpfa_v0203/mat_results
+
+MonkeyPFCSaccadeStudies/StudyCentreOut/Data/Preprocessed
+MonkeyPFCSaccadeStudies/StudyCentreOut/Output
+MonkeyPFCSaccadeStudies/StudyCentreOut/Paper
+MonkeyPFCSaccadeStudies/StudyLocationRule/Data/Preprocessed
+MonkeyPFCSaccadeStudies/StudyLocationRule/Output
+MonkeyPFCSaccadeStudies/StudyLocationRule/Paper
+MonkeyPFCSaccadeStudies/StudyRegionRule/Data/Preprocessed
+MonkeyPFCSaccadeStudies/StudyRegionRule/Output
+MonkeyPFCSaccadeStudies/StudyRegionRule/Paper
+MonkeyPFCSaccadeStudies/StudyMatTest/Data/Preprocessed
+MonkeyPFCSaccadeStudies/StudyTestChad/Data/Preprocessed
+MonkeyPFCSaccadeStudies/StudyChadTest/Data/Preprocessed
+MonkeyPFCSaccadeStudies/Common_Matlab/Setup/my_paths.m
+
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+__pycache__
+ShareSampleData.zip
+*.ipynb_checkpoints/
