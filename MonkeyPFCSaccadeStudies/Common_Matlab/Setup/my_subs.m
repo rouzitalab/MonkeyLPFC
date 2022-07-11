@@ -1,0 +1,6 @@
+function my_subjects = my_subs()
+my_subjects = struct(...
+    'name', 'JerryLee',...
+    'sname', 'j');
+my_subjects(end+1).name = 'Marty';
+my_subjects(end).sname = 'm';
