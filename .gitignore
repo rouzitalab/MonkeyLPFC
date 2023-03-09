@@ -6,6 +6,10 @@ neuroGAM-master/data
 gpfa_v0203/data
 gpfa_v0203/mat_results
 
+# Other Repos
+sorted_analyses/Kilosort
+sorted_analyses/npy-matlab
+
 # Old folders
 MonkeyPFCSaccadeStudies/StudyCentreOut/Data/Preprocessed
 MonkeyPFCSaccadeStudies/StudyCentreOut/Output
