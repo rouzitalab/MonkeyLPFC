@@ -6,6 +6,7 @@ neuroGAM-master/data
 gpfa_v0203/data
 gpfa_v0203/mat_results
 
+# Old folders
 MonkeyPFCSaccadeStudies/StudyCentreOut/Data/Preprocessed
 MonkeyPFCSaccadeStudies/StudyCentreOut/Output
 MonkeyPFCSaccadeStudies/StudyCentreOut/Paper
@@ -19,6 +20,20 @@ MonkeyPFCSaccadeStudies/StudyMatTest/Data/Preprocessed
 MonkeyPFCSaccadeStudies/StudyTestChad/Data/Preprocessed
 MonkeyPFCSaccadeStudies/StudyChadTest/Data/Preprocessed
 MonkeyPFCSaccadeStudies/Common_Matlab/Setup/my_paths.m
+
+# Data will be uploaded to Kaggle.com
+StudyLocationRule/Data/Preprocessed
+sorted_analyses/data
+*.mat
+
+# Output files
+*.xlsx
+*.pkl
+*.h5
+*.svg
+*.png
+*.jpg
+*.txt
 
 # Windows default autosave extension
 *.asv
