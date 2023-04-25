@@ -1,5 +1,20 @@
 .idea
 .DS_Store
+# Output files
+*.xlsx
+*.pkl
+*.h5
+*.svg
+*.png
+*.jpg
+*.txt
+
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
 neuroGAM-master/all
 neuroGAM-master/data
 
@@ -30,20 +45,7 @@ StudyLocationRule/Data/Preprocessed
 sorted_analyses/data
 *.mat
 
-# Output files
-*.xlsx
-*.pkl
-*.h5
-*.svg
-*.png
-*.jpg
-*.txt
 
-# Windows default autosave extension
-*.asv
-
-# OSX / *nix default autosave extension
-*.m~
 
 __pycache__
 ShareSampleData.zip
